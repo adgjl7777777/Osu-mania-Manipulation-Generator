@@ -1,5 +1,8 @@
 # Osu-mania-Manipulation-Generator
-## DOWNLOAD PROGRAM : https://github.com/adgjl7777777/Osu-mania-Manipulation-Generator/releases/download/v1.0/Osu.mania.Manipulation.Generator.by.Transcendence.zip
+## DOWNLOAD PROGRAM :
+<br>Github : https://github.com/adgjl7777777/Osu-mania-Manipulation-Generator/releases/tag/v1.0
+<br>Dropbox : https://www.dropbox.com/s/qnifq91iaa4z2cl/Osu%21%20mania%20Manipulation%20Generator%20by%20Transcendence.zip?dl=0
+<br>Mega : https://mega.nz/#!RB0gkagZ!9p-4xA-tpCpD9P6gt6Wk7BMLI_zCo7VuG1ysIvvVSgI
 ## The compact explanation about this program
 <img src="manipulation/help.png">
 
